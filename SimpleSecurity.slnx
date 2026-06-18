@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/MinimalApiSample/MinimalApiSample.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/SimpleSecurity.DataProtection/SimpleSecurity.DataProtection.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SimpleSecurity.DataProtection.Tests/SimpleSecurity.DataProtection.Tests.csproj" />
+  </Folder>
+</Solution>

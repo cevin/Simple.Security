@@ -1,0 +1,24 @@
+# Root-level markdown stays out of git, except the README files (per user convention)
+/*.md
+!README.md
+!README_zh.md
+
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Rider / VS
+.idea/
+.vs/
+
+# OS
+.DS_Store
