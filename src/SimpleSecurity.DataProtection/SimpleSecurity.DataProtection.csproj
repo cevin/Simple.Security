@@ -10,7 +10,7 @@
 
     <!-- NuGet package metadata -->
     <PackageId>SimpleSecurity.DataProtection</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>cevin</Authors>
     <Description>A drop-in ASP.NET Core IDataProtectionProvider that derives all keys from a single secret string (think Laravel's APP_KEY), with no key-ring XML files to manage or synchronize. Uses HKDF for per-purpose key derivation and AES-GCM for authenticated encryption.</Description>
     <PackageTags>dataprotection;aspnetcore;aes-gcm;hkdf;encryption;security;appkey</PackageTags>
